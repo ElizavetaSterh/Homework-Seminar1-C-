@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\bin\Debug\net7.0\Task6.exe
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\bin\Debug\net7.0\Task6.deps.json
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\bin\Debug\net7.0\Task6.runtimeconfig.json
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\bin\Debug\net7.0\Task6.dll
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\bin\Debug\net7.0\Task6.pdb
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\obj\Debug\net7.0\Task6.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\obj\Debug\net7.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\obj\Debug\net7.0\Task6.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\obj\Debug\net7.0\Task6.AssemblyInfo.cs
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\obj\Debug\net7.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\obj\Debug\net7.0\Task6.dll
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\obj\Debug\net7.0\refint\Task6.dll
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\obj\Debug\net7.0\Task6.pdb
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\obj\Debug\net7.0\Task6.genruntimeconfig.cache
+C:\Users\Александр\Desktop\GeekBrains\C#\Homeworks\Homework-Seminar1-C#\Homework-Seminar1-C-\Task6\obj\Debug\net7.0\ref\Task6.dll
